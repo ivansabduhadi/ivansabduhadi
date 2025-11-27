@@ -16,7 +16,7 @@ I created this GitHub to document my journey, share my projects, and keep improv
 ## **Certifications**  
 
 
-- [SQL and Relational Databases 101] (https://courses.cognitiveclass.ai/certificates/e0b6ea1bc5854bd99fa57c59be134d05#)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e0b6ea1bc5854bd99fa57c59be134d05#)
 - HTML/CSS(https://www.freecodecamp.org/certification/ivan_s_abduhadi/responsive-web-design)
 
 
