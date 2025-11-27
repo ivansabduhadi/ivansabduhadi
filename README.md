@@ -9,16 +9,16 @@ Outside academics, I enjoy basketball, cooking, exercising, and traveling.
 
 I created this GitHub to document my journey, share my projects, and keep improving step by step.
 
-##**Education:** 
+## **Education:** 
 - BS Computer Science
 - New Era University
   
-##**Certifications:**  
+## **Certifications:**  
 - HTML/CSS(https://www.freecodecamp.org/certification/ivan_s_abduhadi/responsive-web-design)
 - SQL (DB2, MySQL)  https://courses.cognitiveclass.ai/certificates/e0b6ea1bc5854bd99fa57c59be134d05#
 
 
-##**Skills:**  
+## **Skills:**  
 - SQL (DB2, MySQL)   
 - GitHub  
 - Database Management  
